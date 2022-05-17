@@ -1,0 +1,1 @@
+valgrind --trace-children=yes --track-fds=yes --track-origins=yes --leak-check=full --show-leak-kinds=all --log-file="log.txt" ./s21_string
