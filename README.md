@@ -129,4 +129,4 @@ where:
 
 ## Implementation of special string processing functions
 
-There is we implement some string processing functions from the String class (described [here](#special-string-processing-functions-from-the-string-class-in-c)
+There is we implement some string processing functions from the String class (described [here](#special-string-processing-functions-from-the-string-class-in-c))
